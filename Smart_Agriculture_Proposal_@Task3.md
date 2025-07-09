@@ -4,7 +4,7 @@
 1. Soil moisture sensors
 2. Ambient temperature/humidity sensors
 3. Multispectral cameras (NDVI)
-4. Weather station (rainfall, wind)
+4. Weather station (rainfall, wind,sunshine)
 
 ## AI Model Architecture
 - Input: Sensor time-series data + satellite imagery
